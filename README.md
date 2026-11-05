@@ -1,3 +1,3 @@
 # About Me
 
-My name is Vishnu Haridasan. I am pursuing B.Tech in Computer Science and Engineering at REVA University. This repository is created to document my programming journey, showcase the skills I am learning, and maintain my academic and personal development projects.Learning Java and Python.Interested in web development and software engineering
+My name is Vishnu Haridasan. I am pursuing B.Tech in Computer Science and Engineering at REVA University. This repository is created to document my programming journey, showcase the skills I am learning, and maintain my academic and personal development projects.Learning Java and Python.Interested in web development and software engineering.Goal: Build real-world software projects and become a skilled software engineer
